@@ -1,0 +1,18 @@
+# ==========================================================
+# AI Pathfinding Visualizer
+# ==========================================================
+#
+# This project uses only Python Standard Library modules.
+# No external packages are required.
+#
+# Required Python Version:
+python>=3.10
+#
+# Standard Library Modules:
+# - tkinter
+# - math
+# - random
+# - heapq
+# - time
+#
+# ==========================================================
